@@ -1,4 +1,6 @@
 # Employee Management System (SQL Project)
+![EmployeeDB(EER Diagram)](https://github.com/user-attachments/assets/0fcb8a46-334f-43d8-b078-78c1ab39c9cf)
+
 
 ## 📌 Overview
 A standalone SQL-based **Employee Management System** using **MySQL**.  
